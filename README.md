@@ -1,5 +1,4 @@
-# Galaxians
-Galaxians v.1.3
+# Galaxians v.1.3
 A space shooter 2D game
 
 This is an arcade game made in Python by Panos and Giannis Tsikogiannopoulos with Turtle graphics library.
