@@ -10,3 +10,6 @@ Downloading instructions:
 I had to remove the music score from the game in order to meet gitub's file size limitations. The sound effects are still there.
 
 Download an unzip file Galaxians v1.3 nomusic.rar. It will create a folder named Galaxians and a file named Galaxians.bat. Double-click on Galaxians.bat. Enjoy!
+
+![Alt text](/game_screen.GIF "Game screen")
+![Alt text](/boss_screen_2.gif "Boss screen")
